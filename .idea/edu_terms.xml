@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="61381848">
+                <value>
+                  <list>
+                    <Term value="vector store" definition="A database optimized for storing and searching high-dimensional vector representations, often used in AI retrieval tasks." />
+                    <Term value="retrieval-augmented generation" definition="A technique combining information retrieval with text generation to produce more accurate, context-aware responses." />
+                    <Term value="prompt engineering" definition="The process of designing and structuring input prompts to guide language model outputs effectively." />
+                    <Term value="rate limits" definition="Restrictions on the number of API requests allowed in a given time period to prevent overload." />
+                    <Term value="environment variable" definition="A variable set outside a program, often used to configure system or application settings like API tokens." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="100165980">
+                <value>
+                  <list>
+                    <Term value="outliers" definition="Data points significantly different from others, often detected and removed to improve analysis accuracy." />
+                    <Term value="class imbalance" definition="A situation where some classes have much fewer samples than others, affecting model performance." />
+                    <Term value="overfitting" definition="A model learns noise in training data, performing poorly on new, unseen data." />
+                    <Term value="quantile" definition="A statistical value dividing data into equal-sized intervals, such as quartiles or percentiles." />
+                    <Term value="Interquartile Range" definition="The range between the first and third quartiles, used to measure statistical dispersion." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="131211714">
+                <value>
+                  <list>
+                    <Term value="embedding" definition="A numerical vector representing a word or item in a continuous vector space." />
+                    <Term value="logistic regression" definition="A statistical model used for binary classification, predicting probabilities between 0 and 1." />
+                    <Term value="AUC" definition="Area Under the Curve; a metric for evaluating classification model performance." />
+                    <Term value="feature engineering" definition="The process of creating or transforming input variables to improve model performance." />
+                    <Term value="NLP" definition="Natural Language Processing; a field focused on interactions between computers and human language." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="145865196">
+                <value>
+                  <list>
+                    <Term value="mnemonic" definition="A memory aid or technique to help remember information more easily." />
+                    <Term value="CEFR" definition="Common European Framework of Reference for Languages; standard for describing language proficiency levels." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="345761655">
+                <value>
+                  <list>
+                    <Term value="pipeline" definition="A series of data processing steps where output of one step is input to the next." />
+                    <Term value="backend APIs" definition="Application interfaces that allow communication with server-side services or databases." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="377202109">
+                <value>
+                  <list>
+                    <Term value="tokenize" definition="Process of splitting text into individual words or symbols, called tokens, for analysis or processing." />
+                    <Term value="EOS" definition="Special token indicating the end of a sentence in natural language processing tasks." />
+                    <Term value="log probabilities" definition="The logarithm of a probability value, often used to prevent numerical underflow in computations." />
+                    <Term value="numerical underflow" definition="A condition where numbers become too small for the computer to represent accurately, leading to errors." />
+                    <Term value="exponential" definition="A mathematical function, often written as exp(x), representing e raised to the power of x." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="413674533">
+                <value>
+                  <list>
+                    <Term value="argmax" definition="A function that returns the index of the maximum value in an array or list." />
+                    <Term value="numerical underflow" definition="A situation where numbers become too small for the computer to represent accurately, often resulting in zero." />
+                    <Term value="broadcasting" definition="A NumPy feature that allows operations on arrays of different shapes by automatically expanding their dimensions." />
+                    <Term value="np.dot" definition="A NumPy function that computes the dot product of two arrays, used for matrix multiplication." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="502503776">
+                <value>
+                  <list>
+                    <Term value="cosine similarity" definition="A measure of similarity between two vectors based on the cosine of the angle between them." />
+                    <Term value="L2 normalization" definition="Scaling a vector so its Euclidean (L2) norm equals 1, often used before similarity calculations." />
+                    <Term value="dot products" definition="An algebraic operation that multiplies two equal-length vectors and sums the results." />
+                    <Term value="np.linalg.norm" definition="A NumPy function to compute vector or matrix norms, such as L2 norm for normalization." />
+                    <Term value="np.argpartition" definition="A NumPy function for partial sorting to efficiently find the k smallest or largest elements." />
+                    <Term value="np.argsort" definition="A NumPy function that returns the indices that would sort an array." />
+                    <Term value="pickle" definition="A Python module for serializing and deserializing Python objects to and from byte streams." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="572975883">
+                <value>
+                  <list>
+                    <Term value="logits" definition="Raw, unnormalized output values from a neural network before applying activation functions like softmax." />
+                    <Term value="softmax" definition="A function that converts a vector of values into probabilities that sum to one." />
+                    <Term value="batch-first" definition="A tensor shape convention where batch size is the first dimension, e.g., [batch, sequence, features]." />
+                    <Term value="embedding layer" definition="A neural network layer that maps discrete tokens to continuous vector representations." />
+                    <Term value="hidden states" definition="Internal memory vectors maintained by RNNs to capture sequence context across time steps." />
+                    <Term value="vanilla RNN" definition="The basic form of recurrent neural network without advanced gating mechanisms like LSTM or GRU." />
+                    <Term value="GRU" definition="Gated Recurrent Unit; an RNN variant with gating for improved memory and efficiency." />
+                    <Term value="LSTM" definition="Long Short-Term Memory; an RNN variant designed to capture long-range dependencies using gates." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="579907281">
+                <value>
+                  <list>
+                    <Term value="greedy decoding" definition="A decoding strategy that always selects the most probable next token at each step." />
+                    <Term value="EOS token" definition="A special token indicating the end of a generated sequence in text generation tasks." />
+                    <Term value="probability distributions" definition="A mathematical function assigning probabilities to all possible outcomes or events." />
+                    <Term value="cumulative probability" definition="The sum of probabilities for all outcomes up to a certain point in a distribution." />
+                    <Term value="Context" definition="The preceding text or tokens used to predict the next token in sequence generation." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="584433693">
+                <value>
+                  <list>
+                    <Term value="fine-tuning" definition="The process of adapting a pre-trained model to a specific task or dataset." />
+                    <Term value="NLP" definition="Short for Natural Language Processing, a field focused on interactions between computers and human language." />
+                    <Term value="prompt engineering" definition="Designing and structuring prompts to guide language model outputs effectively." />
+                    <Term value="parameter-efficient" definition="Techniques that adapt models using fewer trainable parameters, saving resources while maintaining performance." />
+                    <Term value="Preprocessing" definition="Preparing and transforming raw data into a suitable format for model training or analysis." />
+                    <Term value="data augmentation" definition="Creating new training examples by modifying existing data to improve model robustness." />
+                    <Term value="Multi-task Learning" definition="Training a model on multiple tasks simultaneously to improve generalization and performance." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="692992556">
+                <value>
+                  <list>
+                    <Term value="token embeddings" definition="Vector representations of tokens used as input to neural network models." />
+                    <Term value="attention computations" definition="Mathematical operations enabling models to focus on different input parts when processing sequences." />
+                    <Term value="pretrained weights" definition="Model parameters learned from prior training, reused for new tasks or fine-tuning." />
+                    <Term value="batch dimensions" definition="Tensor dimensions representing multiple data samples processed simultaneously." />
+                    <Term value="broadcasting" definition="Automatic expansion of tensor shapes to enable element-wise operations in frameworks like NumPy or PyTorch." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="708218288">
+                <value>
+                  <list>
+                    <Term value="Prompt engineering" definition="Designing input prompts to guide model behavior and improve output quality in language models." />
+                    <Term value="tokenization" definition="Process of splitting text into smaller units, such as words or subwords, for model processing." />
+                    <Term value="dropout" definition="A regularization technique that randomly disables neurons during training to prevent overfitting." />
+                    <Term value="optimizer" definition="Algorithm that updates model parameters to minimize loss during training." />
+                    <Term value="checkpoint" definition="A saved state of a model, allowing training to resume or inference to run from that point." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="744450052">
+                <value>
+                  <list>
+                    <Term value="data leakage" definition="When information from outside the training dataset is used to create the model, leading to overoptimistic results." />
+                    <Term value="bag-of-words" definition="A text representation method using word occurrence counts as features, ignoring grammar and word order." />
+                    <Term value="decision boundaries" definition="Surfaces separating classes in feature space, determined by the classifier's rules." />
+                    <Term value="log-odds" definition="The logarithm of the odds ratio; used in logistic regression to model class probabilities." />
+                    <Term value="Regularization" definition="A technique to prevent overfitting by adding a penalty term to the loss function during training." />
+                    <Term value="Converges" definition="Describes when an iterative algorithm approaches a stable solution or minimum." />
+                    <Term value="threshold" definition="A cutoff value used to decide class membership based on predicted probability." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="745102688">
+                <value>
+                  <list>
+                    <Term value="tokenization" definition="The process of splitting text into individual words or tokens for analysis or processing." />
+                    <Term value="feature engineering" definition="The process of creating input features from raw data to improve machine learning model performance." />
+                    <Term value="TF-IDF" definition="Term Frequency-Inverse Document Frequency, a text representation that weights words by importance across documents." />
+                    <Term value="neural embeddings" definition="Dense vector representations of words or texts learned by neural networks, capturing semantic meaning." />
+                    <Term value="transformer attention" definition="A mechanism in transformer models that allows focusing on different parts of input sequences for better context understanding." />
+                    <Term value="sparse" definition="A data structure or matrix mostly containing zeros, used to save memory in large datasets." />
+                    <Term value="scipy.sparse" definition="A SciPy module providing efficient storage and operations for large, sparse matrices." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="782012799">
+                <value>
+                  <list>
+                    <Term value="n-gram" definition="A contiguous sequence of n items (typically words or tokens) from a given text." />
+                    <Term value="token" definition="A single unit of text, such as a word or symbol, used in language processing." />
+                    <Term value="Counter" definition="A Python collection that counts occurrences of elements, from the collections module." />
+                    <Term value="defaultdict" definition="A Python dictionary that provides a default value for missing keys, from the collections module." />
+                    <Term value="prefix" definition="A sequence of preceding tokens used as context in language modeling." />
+                    <Term value="Vocabulary" definition="The set of all unique tokens considered by a language model." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="793300244">
+                <value>
+                  <list>
+                    <Term value="itertools.product" definition="Python function that returns the Cartesian product of input iterables, used to generate all combinations." />
+                    <Term value="Trainer" definition="Hugging Face class that handles model training, evaluation, and saving with configurable arguments and datasets." />
+                    <Term value="DataCollatorForLanguageModeling" definition="Hugging Face utility that dynamically batches and processes data for language modeling tasks." />
+                    <Term value="callbacks" definition="Functions or objects triggered at specific stages of model training to add custom behavior or logging." />
+                    <Term value="eval_dataset" definition="Dataset used to evaluate model performance during or after training." />
+                    <Term value="train_dataset" definition="Dataset used to train the model during the training process." />
+                    <Term value="output_dir" definition="Directory path where model checkpoints, logs, and outputs are saved during training." />
+                    <Term value="PeftModel" definition="A model class from PEFT library enabling parameter-efficient fine-tuning of large neural networks." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="851366977">
+                <value>
+                  <list>
+                    <Term value="tokenized" definition="Text converted into a sequence of tokens (usually numbers) for model input." />
+                    <Term value="fine-tuning" definition="Further training of a pre-trained model on a new, task-specific dataset." />
+                    <Term value="batching" definition="Processing multiple data samples together in a single operation for efficiency." />
+                    <Term value="streaming" definition="Processing data in small chunks without loading the entire dataset into memory." />
+                    <Term value="instruction-tuned" definition="A model trained specifically to follow instructions provided in the input text." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="891323840">
+                <value>
+                  <list>
+                    <Term value="tokenization" definition="The process of splitting text into smaller units, such as words or characters, for processing." />
+                    <Term value="neural network" definition="A computational model inspired by the human brain, used for tasks like classification and prediction." />
+                    <Term value="attention masks" definition="Boolean arrays indicating which tokens should be attended to in sequence models." />
+                    <Term value="PyTorch" definition="An open-source deep learning framework for building and training neural networks in Python." />
+                    <Term value="tensor" definition="A multi-dimensional array used as the basic data structure in deep learning frameworks." />
+                    <Term value="batch processing" definition="Processing multiple data samples together in parallel to improve computational efficiency." />
+                    <Term value="EOS" definition="A special token indicating the end of a sequence in text processing." />
+                    <Term value="TOKEN_TO_ID" definition="A mapping from text tokens (characters or words) to their corresponding numerical IDs." />
+                    <Term value="cumulative sum" definition="A running total of values along a sequence, often used in masking and sequence analysis." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="906189476">
+                <value>
+                  <list>
+                    <Term value="dataframe" definition="A 2-dimensional labeled data structure in pandas, similar to a table or spreadsheet." />
+                    <Term value="vectorized" definition="Refers to applying operations to entire arrays or columns at once, improving performance in libraries like pandas." />
+                    <Term value="feature extraction" definition="The process of transforming raw data into numerical features suitable for machine learning models." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="912045608">
+                <value>
+                  <list>
+                    <Term value="SentencePiece" definition="A text tokenizer that segments text into subword units, commonly used in NLP models." />
+                    <Term value="token IDs" definition="Numerical representations assigned to tokens for processing by neural network models." />
+                    <Term value="logits" definition="Raw, unnormalized output scores from a model, often used before applying softmax." />
+                    <Term value="Temperature sampling" definition="A technique to control randomness in text generation by scaling logits before sampling." />
+                    <Term value="dropout" definition="A regularization method that randomly sets some neural network activations to zero during training." />
+                    <Term value="linear layer" definition="A neural network layer that applies a linear transformation to its input data." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="930625556">
+                <value>
+                  <list>
+                    <Term value="perplexity" definition="A t-SNE parameter controlling the balance between local and global aspects of the data." />
+                    <Term value="iterations" definition="Number of optimization steps t-SNE performs to fit the reduced embedding." />
+                    <Term value="learning rate" definition="A t-SNE parameter that determines the step size during optimization." />
+                    <Term value="numpy" definition="A popular Python library for efficient numerical and matrix computations." />
+                    <Term value="random_state" definition="A parameter to set the seed for reproducibility in random processes." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="943098781">
+                <value>
+                  <list>
+                    <Term value="AnkiConnect" definition="A RESTful API add-on for Anki that allows external programs to interact with Anki Desktop." />
+                    <Term value="SQLite" definition="A lightweight, file-based relational database engine commonly used for local data storage in applications." />
+                    <Term value="CLI" definition="Command-Line Interface; a way to interact with a program by typing commands in a terminal." />
+                    <Term value="API" definition="Application Programming Interface; a set of rules for programs to communicate with each other." />
+                    <Term value="note type" definition="In Anki, a template defining fields and card layouts for flashcards." />
+                    <Term value="deck" definition="A collection of flashcards grouped together in Anki for study." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="990644515">
+                <value>
+                  <list>
+                    <Term value="zero-shot" definition="A method where a model performs tasks without task-specific training, relying on generalization from prior knowledge." />
+                    <Term value="fine-tuning" definition="Adapting a pre-trained model to a specific task by further training on relevant data." />
+                    <Term value="Counterfactual" definition="A modified data instance created by changing key elements to test model sensitivity to specific features." />
+                    <Term value="prompting" definition="Providing input instructions or examples to guide a language model's output for a specific task." />
+                    <Term value="Baseline" definition="A reference point or standard used to compare the performance of different models or approaches." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1005122915">
+                <value>
+                  <list>
+                    <Term value="pretrained" definition="A model previously trained on large datasets, used as a starting point for new tasks." />
+                    <Term value="fine-tuning" definition="Further training a pretrained model on a specific dataset to adapt it to a new task." />
+                    <Term value="prompt-based" definition="Using carefully crafted input prompts to guide model behavior without additional training." />
+                    <Term value="zero-shot" definition="Performing a task without any task-specific training, relying on a model's generalization." />
+                    <Term value="LayerNorm" definition="A normalization technique that stabilizes neural network training by normalizing inputs across features." />
+                    <Term value="causal masking" definition="A technique in transformers to prevent attention to future tokens during sequence processing." />
+                    <Term value="key-value caching" definition="Storing computed key and value vectors to speed up transformer inference, especially for long sequences." />
+                    <Term value="Parameter initialization" definition="Setting initial values for neural network weights before training begins." />
+                    <Term value="context windows" definition="The span of input tokens a model can process at once in sequence tasks." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1083567496">
+                <value>
+                  <list>
+                    <Term value="dropout" definition="A regularization technique that randomly sets input units to zero during training to prevent overfitting." />
+                    <Term value="logits" definition="Raw, unnormalized scores output by a model before applying an activation function like softmax." />
+                    <Term value="log-softmax" definition="A function that converts logits into log-probabilities, ensuring numerical stability." />
+                    <Term value="fine-tuning" definition="Training a pre-trained model further on a new task or dataset to adapt its knowledge." />
+                    <Term value="pre-trained" definition="Describes a model that has already been trained on a large dataset before being adapted to new tasks." />
+                    <Term value="hidden states" definition="The internal representation produced by a neural network layer for a given input." />
+                    <Term value="classification heads" definition="A neural network layer added to convert model representations into class predictions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1187061239">
+                <value>
+                  <list>
+                    <Term value="AutoTokenizer" definition="Hugging Face class for loading pretrained tokenizers for natural language processing models." />
+                    <Term value="AutoModelForCausalLM" definition="Hugging Face class for loading pretrained causal language models for text generation tasks." />
+                    <Term value="BitsAndBytesConfig" definition="Configuration object from Hugging Face for enabling quantization and memory optimization of models." />
+                    <Term value="bnb_4bit_compute_dtype" definition="Specifies the computation data type for 4-bit quantized models using BitsAndBytes." />
+                    <Term value="gradient_checkpointing_enable" definition="Method that enables gradient checkpointing to reduce memory usage during backpropagation." />
+                    <Term value="enable_input_require_grads" definition="Method to allow gradients to be computed for model input embeddings, useful for prompt tuning." />
+                    <Term value="offload_state_dict" definition="Loads model parameters to CPU memory to reduce GPU memory usage during model loading." />
+                    <Term value="low_cpu_mem_usage" definition="Reduces peak CPU memory consumption when loading large models." />
+                    <Term value="device_map" definition="Specifies how model layers are distributed across available devices, such as multiple GPUs." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1198912042">
+                <value>
+                  <list>
+                    <Term value="fine-tuning" definition="The process of further training a pre-trained model on a specific dataset or task." />
+                    <Term value="in-context" definition="Providing examples or context within a prompt to guide the model's output without changing model parameters." />
+                    <Term value="few-shot" definition="A learning approach where the model is given a few examples in the prompt to perform a new task." />
+                    <Term value="GPT-2" definition="A generative language model developed by OpenAI, known for text generation capabilities." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1203309804">
+                <value>
+                  <list>
+                    <Term value="cross-entropy" definition="A loss function measuring the difference between predicted and true probability distributions." />
+                    <Term value="padding" definition="Special tokens added to sequences to ensure uniform length in batch processing." />
+                    <Term value="BOS" definition="Beginning-Of-Sequence token, marks the start of a sequence in language modeling." />
+                    <Term value="EOS" definition="End-Of-Sequence token, marks the end of a sequence in language tasks." />
+                    <Term value="logits" definition="Raw, unnormalized model outputs, typically used as input to a softmax function." />
+                    <Term value="boolean indexing" definition="Selecting elements from tensors or arrays using boolean masks for filtering." />
+                    <Term value="automatic differentiation" definition="Technique for automatically computing gradients for optimization in neural networks." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1277065343">
+                <value>
+                  <list>
+                    <Term value="corpora" definition="Large collections of text used for training or evaluating language models." />
+                    <Term value="embedding matrices" definition="A 2D array where each row stores the vector representation of a word." />
+                    <Term value="downstream" definition="Refers to tasks or processes that use the output of previous steps as input." />
+                    <Term value="environment variable" definition="A variable set outside a program that affects its behavior or configuration." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1284290421">
+                <value>
+                  <list>
+                    <Term value="embedding" definition="A vector representation of data (like text) capturing semantic meaning for use in machine learning models." />
+                    <Term value="Vectorized" definition="Refers to operations applied simultaneously to entire arrays or matrices, often for efficiency in numerical computing." />
+                    <Term value="np.dot" definition="A NumPy function that computes the dot product of two arrays or vectors." />
+                    <Term value="np.linalg.norm" definition="A NumPy function that computes the vector norm (magnitude) of an array." />
+                    <Term value="np.argpartition" definition="A NumPy function that partially sorts an array to efficiently find the k largest or smallest elements." />
+                    <Term value="scipy.stats.mode" definition="A SciPy function that returns the most common value (mode) in a dataset." />
+                    <Term value="collections.Counter" definition="A Python class for counting hashable objects, often used to tally occurrences in a list." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1303423374">
+                <value>
+                  <list>
+                    <Term value="Openrouter" definition="A platform providing API access to multiple large language models from different providers." />
+                    <Term value="Google Gemini 2.5 Flash" definition="A version of Google's Gemini large language model optimized for fast inference and generation." />
+                    <Term value="gTTS" definition="A Python library and CLI tool to interface with Google Text-to-Speech API." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1512966855">
+                <value>
+                  <list>
+                    <Term value="LayerNorm" definition="A normalization technique that standardizes activations across features for each input sample." />
+                    <Term value="feed-forward" definition="A neural network layer where data flows in one direction, typically used after attention in transformers." />
+                    <Term value="activations" definition="The outputs of neurons or layers after applying an activation function during forward propagation." />
+                    <Term value="pre-trained" definition="Refers to models or weights that have been previously trained on large datasets before fine-tuning." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1606191364">
+                <value>
+                  <list>
+                    <Term value="defaultdict" definition="A Python dictionary subclass that provides a default value for missing keys automatically." />
+                    <Term value="counters" definition="A Python collection that counts occurrences of hashable objects, often used for frequency counting." />
+                    <Term value="type annotations" definition="Python syntax for specifying the expected data types of variables, function parameters, and return values." />
+                    <Term value="docstrings" definition="String literals in Python used to document modules, classes, methods, or functions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1643397957">
+                <value>
+                  <list>
+                    <Term value="adapter" definition="A lightweight module added to a neural network for efficient fine-tuning without updating all model parameters." />
+                    <Term value="embedding" definition="A numerical representation of text or data, capturing semantic meaning for machine learning models." />
+                    <Term value="anchor" definition="In triplet loss, the reference sample used to compare positive and negative examples." />
+                    <Term value="positive" definition="In triplet loss, a sample similar to the anchor, used to teach similarity." />
+                    <Term value="negative" definition="In triplet loss, a sample dissimilar to the anchor, used to teach dissimilarity." />
+                    <Term value="attention" definition="A mechanism in neural networks allowing the model to focus on relevant parts of input data." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1684110967">
+                <value>
+                  <list>
+                    <Term value="backpropagation" definition="Algorithm for computing gradients by propagating errors backward through a neural network." />
+                    <Term value="parameter updates" definition="Adjustments to model weights using gradients to minimize loss during training." />
+                    <Term value="PyTorch" definition="A popular deep learning framework for building and training neural networks in Python." />
+                    <Term value="optimizers" definition="Algorithm that updates model parameters using computed gradients to minimize loss." />
+                    <Term value="gradient-based learning" definition="Training method where model parameters are updated using gradients of the loss function." />
+                    <Term value="learning rates" definition="Hyperparameter controlling the step size during parameter updates in training." />
+                    <Term value="batch sizes" definition="Number of samples processed together in one forward/backward pass during training." />
+                    <Term value="generalization" definition="Model's ability to perform well on unseen data, not just training data." />
+                    <Term value="cross-entropy loss" definition="A loss function measuring the difference between predicted and true probability distributions." />
+                    <Term value="backpropagation through time" definition="Extension of backpropagation for training recurrent neural networks over sequences." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1749682811">
+                <value>
+                  <list>
+                    <Term value="bi-encoder" definition="A neural network architecture using two encoders to process pairs of inputs for similarity comparison." />
+                    <Term value="corpora" definition="Large collections of texts used for training or evaluating language models." />
+                    <Term value="Triplet loss" definition="A loss function that encourages an anchor to be closer to a positive than a negative sample." />
+                    <Term value="Hard negative mining" definition="Selecting challenging negative examples to improve model robustness during training." />
+                    <Term value="in-memory" definition="Data stored and processed directly in RAM, not on disk, for faster access." />
+                    <Term value="train/eval splitting" definition="Dividing data into training and evaluation sets to assess model performance." />
+                    <Term value="DatasetDict" definition="A Hugging Face data structure holding multiple named dataset splits, like 'train' and 'eval'." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1805483283">
+                <value>
+                  <list>
+                    <Term value="TF-IDF" definition="A statistical method to reflect how important a word is to a document in a collection." />
+                    <Term value="Word2Vec" definition="A neural network model that learns vector representations of words from large text datasets." />
+                    <Term value="retrieval-augmented generation" definition="A technique combining information retrieval with text generation to improve response relevance." />
+                    <Term value="fine-tuning" definition="The process of adapting a pre-trained model to a specific task or dataset." />
+                    <Term value="APIs" definition="A set of rules enabling programs to communicate and interact with external software or services." />
+                    <Term value="pipeline" definition="A sequence of data processing steps, where output of one step is input for the next." />
+                    <Term value="vectors" definition="An array of numbers representing data, often used for word or document representations in NLP." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1816130814">
+                <value>
+                  <list>
+                    <Term value="contrastive learning" definition="A machine learning technique using positive and negative pairs to teach models to distinguish between similar and dissimilar items." />
+                    <Term value="hard negative" definition="A challenging incorrect example, closely resembling the correct answer, used to improve model discrimination." />
+                    <Term value="WordNet" definition="A large lexical database of English, grouping words into sets of synonyms and providing definitions." />
+                    <Term value="OpenAI API" definition="A programming interface for accessing OpenAI's language models and services programmatically." />
+                    <Term value="retriever" definition="A component that selects relevant documents or information from a large collection for further processing." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1909320462">
+                <value>
+                  <list>
+                    <Term value="Laplace smoothing" definition="A technique that adds a small constant to probabilities to handle unseen events in language models." />
+                    <Term value="perplexity" definition="A metric that measures how well a language model predicts a sample; lower values indicate better performance." />
+                    <Term value="RNNs" definition="Recurrent Neural Network; a neural network type designed for sequential data like text." />
+                    <Term value="PyTorch" definition="An open-source machine learning library for Python, widely used for deep learning applications." />
+                    <Term value="cross-entropy loss" definition="A loss function measuring the difference between predicted and true probability distributions." />
+                    <Term value="Beam Search" definition="A search algorithm that explores multiple possible sequences to improve text generation quality." />
+                    <Term value="sampling" definition="A strategy for selecting words probabilistically from a model's output during text generation." />
+                    <Term value="Top-k Sampling" definition="A text generation method that samples from the k most probable next words." />
+                    <Term value="Top-p Sampling" definition="A text generation method that samples from the smallest set of words whose probabilities sum to p." />
+                    <Term value="Temperature Sampling" definition="A technique that controls randomness in text generation by scaling predicted probabilities." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1950958491">
+                <value>
+                  <list>
+                    <Term value="gradient descent" definition="An optimization algorithm that updates parameters in the direction of the negative gradient of the loss." />
+                    <Term value="learning rates" definition="A hyperparameter that controls the step size during parameter updates in optimization algorithms." />
+                    <Term value="Weight decay" definition="A regularization technique that penalizes large weights by adding a term to the loss function." />
+                    <Term value="generalization" definition="The ability of a model to perform well on unseen data, not just on training data." />
+                    <Term value="momentum" definition="A technique in optimization that helps accelerate gradients vectors in the right directions." />
+                    <Term value="numerical stability" definition="Ensuring computations do not result in overflow, underflow, or significant rounding errors." />
+                    <Term value="pretrained weights" definition="Model parameters learned from previous training, used to initialize a new model for faster convergence." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1968138158">
+                <value>
+                  <list>
+                    <Term value="hyperparameter" definition="A configuration variable external to the model, set before training, affecting learning behavior and performance." />
+                    <Term value="grid search" definition="A systematic method for tuning hyperparameters by exhaustively searching through a specified parameter space." />
+                    <Term value="checkpointing" definition="Saving the current state of a model during training to allow resuming or recovery later." />
+                    <Term value="inference" definition="The process of making predictions using a trained model on new, unseen data." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1972904037">
+                <value>
+                  <list>
+                    <Term value="embeddings" definition="Numerical representations of input data, such as words, used as input for neural networks." />
+                    <Term value="attention" definition="A mechanism allowing models to focus on relevant parts of input sequences when making predictions." />
+                    <Term value="feed-forward networks" definition="Neural network layers where information moves forward without cycles or loops." />
+                    <Term value="RoPE" definition="Rotary Positional Encoding; a method for encoding token positions in transformer models." />
+                    <Term value="hyperparameters" definition="Configuration settings for machine learning models, such as learning rate or layer size, set before training." />
+                    <Term value="Tensor" definition="A multi-dimensional array used to store data for computation in machine learning frameworks." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2012049195">
+                <value>
+                  <list>
+                    <Term value="transformers" definition="A Python library for working with pretrained models for natural language processing tasks." />
+                    <Term value="Tokenizers" definition="Tools or libraries that split text into smaller units (tokens) for model input." />
+                    <Term value="hyperparameter" definition="A configuration variable set before training that controls model behavior, like learning rate or batch size." />
+                    <Term value="embeddings" definition="Numerical vector representations of words or data for use in machine learning models." />
+                    <Term value="activations" definition="The output values produced by a neural network layer after applying an activation function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2066888977">
+                <value>
+                  <list>
+                    <Term value="bi-encoder" definition="A neural network architecture that encodes queries and documents separately for efficient similarity search." />
+                    <Term value="triplet loss" definition="A loss function encouraging an anchor to be closer to a positive than a negative example." />
+                    <Term value="embedding" definition="A numerical vector representation of data, such as text, for machine learning models." />
+                    <Term value="in-memory vector stores" definition="Data structures storing vectors in RAM for fast similarity search and retrieval." />
+                    <Term value="semantic search" definition="Search technique using meaning and context, not just keywords, to find relevant results." />
+                    <Term value="corpora" definition="Large and structured sets of texts used for training or evaluating language models." />
+                    <Term value="prompt engineering" definition="The process of designing input prompts to guide language model outputs effectively." />
+                    <Term value="WordNet" definition="A large lexical database of English words, organized by meanings and semantic relationships." />
+                    <Term value="inference pipeline" definition="A sequence of processing steps to generate predictions from trained machine learning models." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="123" />
+      </map>
+    </termsVersions>
+  </component>
+</project>

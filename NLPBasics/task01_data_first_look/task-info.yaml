@@ -1,0 +1,87 @@
+type: edu
+custom_name: Data Exploration and Quality Assessment
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 768
+        length: 24
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 648
+        initialized_from_dependency: false
+        encrypted_possible_answer: YCLd+1Kph2cLKekp8ZNFXA==
+        selected: true
+        status: Unchecked
+      - offset: 1109
+        length: 49
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 976
+        initialized_from_dependency: false
+        encrypted_possible_answer: WNGY3LkWhpUPzhQ634Meu6+wbLd4VZ4u/TzS56Sw75w=
+        selected: true
+        status: Unchecked
+      - offset: 1255
+        length: 27
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 1123
+        initialized_from_dependency: false
+        encrypted_possible_answer: JmuRluUj0MVcqJDlv+bIM0RVlElL4ZZQk+3Hp9KmbcG8a7fIa1wV0AnnTuEvrtiQ
+        selected: true
+        status: Unchecked
+      - offset: 1473
+        length: 58
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 1379
+        initialized_from_dependency: false
+        encrypted_possible_answer: EhYIWr7OGbVrnnbyoErzNguPNH8fK91yoHgAKTnt8PQH/MxDDeKJ9+yC19jjwdPY
+        selected: false
+        status: Unchecked
+      - offset: 1637
+        length: 36
+        placeholder_text: "pass # TODO"
+        initial_state:
+          length: 11
+          offset: 1548
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4stCJyBdjHBAUraEciQxVLJnH04tIgjzyvbgFbYV+Yw=
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: img/image_0_dark.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: img/image_0.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: img/image_1_dark.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: img/image_1.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Unchecked
+feedback:
+  message: No Python interpreter. Learn how to configure Python environment <a href="https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#environment_configuration_python">here</a>
+  time: "Wed, 29 Apr 2026 11:19:14 UTC"
+record: -1
